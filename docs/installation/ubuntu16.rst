@@ -106,7 +106,7 @@ a. Create a :term:`Python virtual environment` and activate it::
 
 b. Install Tethys Platform into the virtual environment with the following command::
 
-    (tethys) $ git clone https://github.com/tethysplatform/tethys /usr/lib/tethys/src
+    (tethys) $ git clone https://github.com/tethysplatform/tethys /usr/lib/tethys/src -b master
 
 .. tip::
 
